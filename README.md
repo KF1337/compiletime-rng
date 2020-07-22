@@ -1,4 +1,4 @@
-# Compile Time RNG (Linear Congruential Generator)
+# Compiletime RNG (Linear Congruential Generator)
 
 ## What is a linear congruential pseudorandom number generator (LCG)?
 The only thing that is necessary to unterstand LCG's is [Wikipedia](https://en.wikipedia.org/wiki/Linear_congruential_generator).
